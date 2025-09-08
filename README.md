@@ -3,3 +3,6 @@ A personal portfolio built with Streamlit.
 - Choose between QA, Developer, and Hybrid resumes  
 - Projects showcase  
 - Contact form  
+
+
+https://app-portfolio-appyj6g9oa8ahi8ntxgyxxz.streamlit.app/
